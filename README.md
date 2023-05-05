@@ -18,9 +18,3 @@ Conditional GAN's are advanced form of GAN's where we provide conditions as well
 Reference: https://github.com/miranthajayatilake/CGAN-Keras
 
 Paper : Conditional Generative Adversarial Nets :  https://arxiv.org/abs/1411.1784
-
-Do let me know if you have any questions regarding any of the above code, I would be happy to help you.
-
-Isaac,
-
-https://www.linkedin.com/in/isaac-patole/
